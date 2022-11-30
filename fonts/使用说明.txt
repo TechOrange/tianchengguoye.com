@@ -1,4 +1,9 @@
-仅个人使用，版权方为华为终端有限公司@Copyright 2021 Huawei Device Co., Ltd.
+HarmonyOS Sans字体为免费商用字体，版权方为华为终端有限公司@Copyright 2021 Huawei Device Co., Ltd.
+
+如需使用，请参阅官方字体包里面的LICENSE文件内的许可条款进行使用。
+
 原文：https://developer.harmonyos.com/cn/docs/design/font-0000001157868583
+
 下载 HarmonyOS Sans：
 https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPub/011/111/111/0000000000011111111.20221101115044.33201174322571893280998053929524:50531031060425:2800:6DA5B24196810B0861671524221560A081031A0859326AD524B15C316D0AB6F9.zip?needInitFileName=true
+
